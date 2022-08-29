@@ -1,3 +1,5 @@
-# myFirstRepo
-This is my first repository
-Change #1
+Here's anew file that I've created
+It has some words in it!
+
+Added a line locally
+Here is a new line at 4
